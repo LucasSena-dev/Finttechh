@@ -1,0 +1,66 @@
+.cabecalho{
+    background-color: #273f5b;;
+    align-content: center;
+    padding: 0;
+    margin: 0;
+}
+
+.logotipo{
+    padding-left: 1rem;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.menudrop{
+    align-content: center;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+    color: var(--bs-dropdown-link-active-color);
+    text-decoration: none;
+    background-color:  #273f5b;
+}
+
+.pag-atual{
+    align-content: center;
+}
+
+#actual-page{
+    color: white;
+    margin-bottom: 0;
+    font-family:"poppins";
+}
+
+.dropdowntext{
+    font-family:"poppins";
+}
+
+.nav-tabs {
+    --bs-nav-tabs-border-width: var(--bs-border-width);
+    --bs-nav-tabs-border-color: #d7d7d7;
+    --bs-nav-tabs-border-radius: var(--bs-border-radius);
+    --bs-nav-tabs-link-hover-border-color: #ffffff #304053 var(--bs-border-color);
+    --bs-nav-tabs-link-active-color: #fff;
+    --bs-nav-tabs-link-active-bg: #273f5b;
+    --bs-nav-tabs-link-active-border-color: var(--bs-border-color) var(--bs-border-color) #ffffff;
+    border-bottom: var(--bs-nav-tabs-border-width) solid #e3e3e3;
+}
+
+.nav {
+    --bs-nav-link-padding-x: 1rem;
+    --bs-nav-link-padding-y: 0.5rem;
+    --bs-nav-link-font-weight: ;
+    --bs-nav-link-color: #273f5b;;
+    --bs-nav-link-hover-color: #616161;
+    --bs-nav-link-disabled-color: var(--bs-secondary-color);
+}
+
+.navi{
+    font-family:"poppins";
+    font-size: small;
+}
+
+
+#card-container{
+    color: #273f5b;
+}
